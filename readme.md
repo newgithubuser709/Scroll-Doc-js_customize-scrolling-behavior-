@@ -13,4 +13,4 @@ ________________________________________________________________________________
 2 : for online cdn  -- cannot be customize 
 -- fixed at trasition with 400ms and 100px move with trasition when scroll --
 
-https://mobirise.com/extensions/boldm5/technology-company/assets/smoothscroll/smooth-scroll.js
+<script src="https://mobirise.com/extensions/boldm5/technology-company/assets/smoothscroll/smooth-scroll.js"></script>
